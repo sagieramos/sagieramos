@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web appplication developer 」
+    「 I am a full-stack developer 」
     <br>
     <br>
   </samp>
