@@ -20,7 +20,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>Stanley</b>
+                <b>Stanley</b> from Nigeria
         </samp>
 </h3>
 
@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full-stack developer 」
+    「 I am a full-stack developer available for hire」
     <br>
     <br>
   </samp>
@@ -65,7 +65,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: sagiecyber@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/sagieramos/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/sagieramos/sagieramos/issues/1)
 
 </p>
 
