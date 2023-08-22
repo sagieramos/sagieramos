@@ -108,13 +108,13 @@
 
 <p align="center">
   <a href="https://github.com/sagieramos">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagieramos&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagieramos&theme=radical&border=7F3FBF&background=0D1117" alt="Sagie's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/sagieramos">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagieramos&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagieramos&theme=radical" alt="Al Sagie's GitHub Contribution"/>
   </a>
 </p>
 
@@ -126,7 +126,7 @@
 
 <br/>
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&theme=dark)
+![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&theme=dark)
 
 <br/>
 
