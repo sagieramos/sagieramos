@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full-stack developer available for hire」
+    「 I am a full-stack developer, available for hire」
     <br>
     <br>
   </samp>
@@ -73,7 +73,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Languages and tools
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -124,6 +124,10 @@
   <br/>
 </a>
 
-<br>
+<br/>
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&theme=dark)
+
+<br/>
+
+[twitter]: https://twitter.com/sagieramos
