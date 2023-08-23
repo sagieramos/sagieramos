@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full-stack developer, available for hire」
+    「 I am a full-stack developer, available for hire 」
     <br>
     <br>
   </samp>
@@ -94,6 +94,12 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-000000?style=for-the-badge&logo=haproxy&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=white)
+
 
 <br/>
 
@@ -126,8 +132,11 @@
 
 <br/>
 
-![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&theme=dark)
+![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&theme=dark)
 
 <br/>
 
-[twitter]: https://twitter.com/sagieramos
+![🔝 Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sagieramos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
