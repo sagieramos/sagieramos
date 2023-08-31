@@ -106,22 +106,25 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/sagieramos">
+### 📊 GitHub Stats:
+
+<section display="flex" justify-content="center" align-items="center"> 
+  <a align="center" href="https://github.com/sagieramos">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagieramos&theme=radical&border=7F3FBF&background=0D1117" alt="Sagie's GitHub streak"/>
   </a>
-</p>
-
-<p align="center">
+   <br/>
   <a href="https://github.com/sagieramos">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagieramos&theme=radical" alt="Al Sagie's GitHub Contribution"/>
   </a>
-</p>
-
-<section display="flex" justify-content="center" align-items="center"> 
-    <a href="https://github.com/sagieramos"><img alt="Stanley's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="88%"/></a>
+   <br/>
+    <a href="https://github.com/sagieramos"><img alt="Stanley's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="88%"/>
+    </a>
     <br/>
     <a href="https://github.com/sagieramos"><img alt="Stanley's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagieramos&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="88%"/></a>
-    <a href="https://github.com/sagieramos"><img alt="Stanley's Top Languages" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" height="" width="300px"></a>
 </section>
+ <br/>
+
+ ### ✍️ Random Dev Quote
+
+![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
