@@ -1,12 +1,10 @@
 
-<h2 align="center">
-  Welcome!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+
 
 <!-- <p align="center">
   <a href="https://github.com/sagieramos"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p> -->
+
 
 
 
@@ -17,13 +15,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Stanley</b> from Nigeria
-        </samp>
-</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Stanley!)](https://git.io/typing-svg)
 
 <p align="center"> 
   <samp>
@@ -62,10 +54,11 @@
 <p>
  <img align="right" width="350" src="./assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ 🌱 &emsp; Front-end and Back-end stack <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 💼 &emsp; I am available for hire<br/><br/>
  📧 &emsp; Reach me anytime: sagiecyber@gmail.com<br/><br/>
- 🚀 &emsp; Check my Porforlio [here](https://github.com/sagieramos/my-porforlio)<br/><br/>
+ 🚀 &emsp; Checkout my Porforlio [here](https://github.com/sagieramos/my-porforlio)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/sagieramos/sagieramos/issues/1)
 
 </p>
@@ -125,20 +118,10 @@
   </a>
 </p>
 
-<a> 
+<section display="flex" justify-content="center" align-items="center"> 
     <a href="https://github.com/sagieramos"><img alt="Stanley's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="88%"/></a>
     <br/>
     <a href="https://github.com/sagieramos"><img alt="Stanley's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sagieramos&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="88%"/></a>
-  <br/>
-</a>
-
-<br/>
-
-![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagieramos&show_icons=true&theme=dark)
-
-<br/>
-
-![🔝 Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sagieramos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    <a href="https://github.com/sagieramos"><img alt="Stanley's Top Languages" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" height="" width="300px"></a>
+</section>
 
